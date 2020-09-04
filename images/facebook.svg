@@ -1,0 +1,18 @@
+<svg id="facebook" xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="29.5" cy="29.5" r="28"/>
+  <path class="cls-2" d="M222.813,247.007a6.974,6.974,0,0,0-2.984.565,3.557,3.557,0,0,0-1.557,1.643,5.855,5.855,0,0,0-.416,2.545v1.2h-1.864v3.028h1.864V266h3.985V255.984h2.485l0.689-3.028h-3.174v-1.128a2.14,2.14,0,0,1,.386-1.491,1.993,1.993,0,0,1,1.363-.456,3.371,3.371,0,0,1,1.694.7l0.726-2.848A10.93,10.93,0,0,0,222.813,247.007Z" transform="translate(-190.5 -227.5)"/>
+</svg>
